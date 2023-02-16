@@ -1,4 +1,4 @@
-package onlineShop.models.products.peripherals;
+package onlineShop.models.peripherals;
 
 import onlineShop.models.products.Product;
 

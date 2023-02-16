@@ -1,8 +1,8 @@
-package onlineShop.models.products.computers;
+package onlineShop.models.computers;
 
+import onlineShop.models.components.Component;
+import onlineShop.models.peripherals.Peripheral;
 import onlineShop.models.products.Product;
-import onlineShop.models.products.components.Component;
-import onlineShop.models.products.peripherals.Peripheral;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package onlineShop.models.products.components;
+package onlineShop.models.components;
 
 import onlineShop.models.products.Product;
 
